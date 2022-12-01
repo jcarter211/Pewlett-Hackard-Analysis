@@ -47,3 +47,11 @@ ON (e.emp_no = ti.emp_no)
 WHERE de.to_date = ('9999-01-01')
 AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no;
+
+--Counting the number of employees retiring 
+Select Count (emp_no) as "Roles to Be Filled"
+From unique_titles;
+
+--Counting the amount of mentors available
+Select Count (emp_no) as "Qualified Mentors"
+From mentorship_eligibility;
