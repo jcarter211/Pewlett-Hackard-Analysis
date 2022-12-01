@@ -12,9 +12,9 @@ In the following report, I will list four major points from our analysis. I will
 
 ## Results 
 The following two points are from a table in our analysis called "Retiring Titles". This table shows the number of employees who are about to retire grouped by their most recent job title. 
+![Retiring_Titles](Resources/Retiring_Titles.png)
 * The title with the most positions to fill is "Senior Engineer", which will have 25,916 employees eligible for retirement. 
 * The title with the least amount of positions to fill is "Manager" with only two employees eligible for retirement. 
-![Retiring Titles]("Resources/Retiring_Titles.jpg)
 *
 *
 
