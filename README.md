@@ -4,7 +4,7 @@
 Pewlett Hackard is preparing for a large amount of baby boomers who are getting ready to retire. I am helping Bobby, the HR analyst, conduct employee research. In our first assignment, we worked together to answer the following questions:
 1. Who will be retiring in the next few years?
 2. How many positions will Pewlett Hackard need to fill?
-After answering these questions, we gave the company a list of employees elibible for their retirement package. 
+After answering these questions, we gave the company a list of employees eligible for their retirement package. 
 Our second task, asked us to answer two further questions. 
 1. What is the number of employees retiring per title?
 2. Which employees are eligible to participate in a mentorship program? 
@@ -33,4 +33,4 @@ Below is a quick summary of our analysis:
 
 ![Mentors](Resources/Mentors.png)
 
-2. With only 1,549 employees eligilble for mentorship there are not enough employees to mentor the incoming group of hires. 
+2. With only 1,549 employees eligible for mentorship, there are not enough employees to mentor the incoming group of hires. 
